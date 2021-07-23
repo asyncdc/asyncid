@@ -17,52 +17,52 @@ export class ServicesComponent implements OnInit {
         {
             subTitle: `OUR SERVICES AREA`,
             title: `We Offer Professional Security Solutions For Business`,
-            paragraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`
+            paragraph: `Full-featured IGA with a Cloud Native Architecture.`
         }
     ]
     singleServicesBox = [
         {
             icon: `flaticon-bank`,
-            title: `Banking`,
-            paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
+            title: `Comprehensive and responsive support`,
+            paragraph: `Critical incident response times are guaranteed within maximum 1 hour. Critical incident updates every 30 minutes `,
             detailsLink: `services-details`,
             btnText: `READ MORE`
         },
         {
             icon: `flaticon-manufacturing`,
-            title: `Manufacturing`,
-            paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
+            title: `Access to support and training resources `,
+            paragraph: `Access to Omada Service Desk.Access to Omada’s online community and knowledge sharing HUB `,
             detailsLink: `services-details`,
             btnText: `READ MORE`
         },
         {
             icon: `flaticon-oil-1`,
-            title: `Oil And Gas`,
-            paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
+            title: `Access to dedicated Customer Success Team`,
+            paragraph: `Dedicated Customer Success team.Application of best practice project execution. Standardized packages for improved time-to-value `,
             detailsLink: `services-details`,
             btnText: `READ MORE`
         },
-        {
-            icon: `flaticon-antivirus`,
-            title: `Network Assessment`,
-            paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
-            detailsLink: `services-details`,
-            btnText: `READ MORE`
-        },
-        {
-            icon: `flaticon-keywords`,
-            title: `Host & End Point`,
-            paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
-            detailsLink: `services-details`,
-            btnText: `READ MORE`
-        },
-        {
-            icon: `flaticon-protection`,
-            title: `Cloud & Virtualization`,
-            paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
-            detailsLink: `services-details`,
-            btnText: `READ MORE`
-        }
+        // {
+        //     icon: `flaticon-antivirus`,
+        //     title: `Network Assessment`,
+        //     paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
+        //     detailsLink: `services-details`,
+        //     btnText: `READ MORE`
+        // },
+        // {
+        //     icon: `flaticon-keywords`,
+        //     title: `Host & End Point`,
+        //     paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
+        //     detailsLink: `services-details`,
+        //     btnText: `READ MORE`
+        // },
+        // {
+        //     icon: `flaticon-protection`,
+        //     title: `Cloud & Virtualization`,
+        //     paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
+        //     detailsLink: `services-details`,
+        //     btnText: `READ MORE`
+        // }
     ]
 
     servicesSlides: OwlOptions = {

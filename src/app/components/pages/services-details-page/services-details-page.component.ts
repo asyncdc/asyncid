@@ -17,18 +17,18 @@ export class ServicesDetailsPageComponent implements OnInit {
 
     pageTitle = [
         {
-            pageTitle: `Application Security Consulting`
+            pageTitle: `Naxai Identity Cloud`
         }
     ]
     servicesDetailsContent = [
         {
-            title: `Virtual Chief Information Security Officer Services`,
+            title: `Full-featured IGA with a Cloud Native Architecture`,
             paragraphList: [
                 {
-                    paragraph: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.`
+                    paragraph: `Identity Cloud is the leading Software-as-a-Service (SaaS) identity governance and administration solution on the market  providing comprehensive IGA capabilities. Delivering IGA as a cloud-based solution provides efficiency and security benefits that immediately provide value.`
                 },
                 {
-                    paragraph: `It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`
+                    paragraph: `Identity Cloud meets the security, compliance, and efficiency needs of business leaders, removing cost and uncertainty from managing identities and access. `
                 }
             ]
         }

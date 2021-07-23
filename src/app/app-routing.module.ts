@@ -26,12 +26,15 @@ import { PrivacyPolicyPageComponent } from './components/pages/privacy-policy-pa
 import { ProductsDetailsPageComponent } from './components/pages/products-details-page/products-details-page.component';
 import { ProductsPageComponent } from './components/pages/products-page/products-page.component';
 import { ServicesDetailsPageComponent } from './components/pages/services-details-page/services-details-page.component';
+import { IdentityCloudPageComponent } from './components/pages/cloud-identity-page/cloud-identity-page.component';
 import { ServicesPageComponent } from './components/pages/services-page/services-page.component';
 import { SignInPageComponent } from './components/pages/sign-in-page/sign-in-page.component';
 import { SignUpPageComponent } from './components/pages/sign-up-page/sign-up-page.component';
 import { SolutionsDetailsPageComponent } from './components/pages/solutions-details-page/solutions-details-page.component';
 import { SolutionsPageComponent } from './components/pages/solutions-page/solutions-page.component';
 import { TermsConditionsPageComponent } from './components/pages/terms-conditions-page/terms-conditions-page.component';
+import { UXServicesPageComponent } from './components/pages/ux-services-page/ux-services-page.component';
+import { ProfessionalServicesPageComponent } from './components/pages/professional-services-page copy/professional-services-page.component';
 
 const routes: Routes = [
     {path: '', component: HomeDemoOneComponent},
@@ -47,6 +50,9 @@ const routes: Routes = [
     {path: 'faq', component: FaqPageComponent},
     {path: 'services', component: ServicesPageComponent},
     {path: 'services-details', component: ServicesDetailsPageComponent},
+    {path: 'identity-cloud-details', component: IdentityCloudPageComponent}, 
+    {path: 'ux-services-details', component: UXServicesPageComponent},  
+    {path: 'professional-services-details', component: ProfessionalServicesPageComponent},  
     {path: 'solutions', component: SolutionsPageComponent},
     {path: 'solutions-details', component: SolutionsDetailsPageComponent},
     {path: 'pricing', component: PricingPageComponent},

@@ -15,29 +15,29 @@ export class HomeoneFeaturesComponent implements OnInit {
     singleFeaturesBox = [
         {
             icon: `flaticon-video-conference`,
-            title: `Security Advisory`,
-            paragraph: `Lorem ipsum dolor sit amet, elit hi it adipiscing, sed do eiusmd tempor incididunt ut labore. Quis ipsum suspen disse ipsum.`,
+            title: `IDENTITY CLOUD`,
+            paragraph: `Identity Cloud provides an enterprise-grade, mature Software-as-a-Service offering with a full set of identity governance and access management functionality.`,
             link: `services-details`,
             linkText: `READ MORE`
         },
         {
             icon: `flaticon-call-center-agent`,
-            title: `Technical Assurance`,
-            paragraph: `Lorem ipsum dolor sit amet, elit hi it adipiscing, sed do eiusmd tempor incididunt ut labore. Quis ipsum suspen disse ipsum.`,
+            title: `IDENTITY`,
+            paragraph: `Identity is a flexible and future-proof choice that delivers scalable and configurable identity and access management processes with essential identity governance and access management capabilities.`,
             link: `services-details`,
             linkText: `READ MORE`
         },
         {
             icon: `flaticon-cyber-security`,
-            title: `Managed Services`,
-            paragraph: `Lorem ipsum dolor sit amet, elit hi it adipiscing, sed do eiusmd tempor incididunt ut labore. Quis ipsum suspen disse ipsum.`,
+            title: `Efficiency and Enablement`,
+            paragraph: `Enable the business through improved provisioning, seamless workflows, and optimized helpdesk capacity.`,
             link: `services-details`,
             linkText: `READ MORE`
         },
         {
-            icon: `flaticon-hacker`,
-            title: `Remote Workers`,
-            paragraph: `Lorem ipsum dolor sit amet, elit hi it adipiscing, sed do eiusmd tempor incididunt ut labore. Quis ipsum suspen disse ipsum.`,
+            icon: `flaticon-innovation`,
+            title: `UI/UX Design`,
+            paragraph: `A user interface is essentially the features of a device or an application that allow a user to interact with it smoothly and intuitively.`,
             link: `services-details`,
             linkText: `READ MORE`
         }

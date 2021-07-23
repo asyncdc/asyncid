@@ -16,7 +16,7 @@ export class HomeoneBannerComponent implements OnInit {
         {
             bgImage: `assets/img/main-banner1.jpg`,
             title: `We Protect The World's Most Sensitive Data`,
-            paragraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas lacus vel facilisis.`,
+            paragraph: `Naxai provides solution that adapts to your organization out of the box, while keeping you secure and compliant. .`,
             buttonBox: [
                 {
                     buttonText: `GET STARTED`,

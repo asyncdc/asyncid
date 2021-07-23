@@ -24,18 +24,18 @@ export class WhyChooseUsComponent implements OnInit {
             featuresList: [
                 {
                     icon: `flaticon-computer`,
-                    title: `Cyber Security Expert`,
-                    paragraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.`
+                    title: `Scalable cloud environment`,
+                    paragraph: `Three-tier deployment environment included for Integration, Staging and Production ,Unlimited number of connected systems, Unlimited data storage and unlimited traffic `
                 },
                 {
                     icon: `flaticon-call-center-agent`,
-                    title: `Industry Expertise`,
-                    paragraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.`
+                    title: `Continuous performance monitoring and enhancement `,
+                    paragraph: `Continuous reporting, health check, and log handling.Ongoing automated deployment of releases and patches. Flexible upgrade windows that fit your business needs `
                 },
                 {
                     icon: `flaticon-hacker`,
-                    title: `Remote Workers`,
-                    paragraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.`
+                    title: `High-availability and business continuity`,
+                    paragraph: `High-availability service with 99.9% availability,Service continuity management, Disaster recovery and backup services `
                 }
             ]
         }

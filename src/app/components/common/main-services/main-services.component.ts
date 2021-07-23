@@ -86,7 +86,7 @@ export class MainServicesComponent implements OnInit {
 			],
             buttonLink: `services-details`,
             buttonText: `READ MORE`,
-            img: `assets/img/services/services-img3.png`
+            img: `assets/img/services/services-img3.jpg`
 		},
 		{
             title: `Disaster Planning Standard Service`,

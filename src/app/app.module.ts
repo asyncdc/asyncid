@@ -72,7 +72,10 @@ import { PricingPageComponent } from './components/pages/pricing-page/pricing-pa
 import { SolutionsPageComponent } from './components/pages/solutions-page/solutions-page.component';
 import { SolutionsDetailsPageComponent } from './components/pages/solutions-details-page/solutions-details-page.component';
 import { ServicesDetailsPageComponent } from './components/pages/services-details-page/services-details-page.component';
+import { IdentityCloudPageComponent } from './components/pages/cloud-identity-page/cloud-identity-page.component';
 import { CaseStudiesComponent } from './components/common/case-studies/case-studies.component';
+import { UXServicesPageComponent } from './components/pages/ux-services-page/ux-services-page.component';
+import { ProfessionalServicesPageComponent } from './components/pages/professional-services-page copy/professional-services-page.component';
 
 @NgModule({
     declarations: [
@@ -140,6 +143,9 @@ import { CaseStudiesComponent } from './components/common/case-studies/case-stud
         SolutionsPageComponent,
         SolutionsDetailsPageComponent,
         ServicesDetailsPageComponent,
+        IdentityCloudPageComponent,
+        UXServicesPageComponent,
+        ProfessionalServicesPageComponent,
         CaseStudiesComponent,
     ],
     imports: [
